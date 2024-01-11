@@ -7,7 +7,7 @@ sdk: docker
 pinned: false
 ---
 ## 上传代码
-新建一个Dockerfile，将`Dockerfile`和`README.md`上传上去
+在huggingface新建一个spaces，使用Docker，将`Dockerfile`和`README.md`上传上去
 
 ## 环境变量
 需要一个环境变量 `VNC_RESOLUTION`
