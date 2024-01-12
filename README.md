@@ -6,6 +6,7 @@ colorTo: pink
 sdk: docker
 pinned: false
 ---
+建议使用小号部署，这个项目会被封号，我已经被封了两个了
 ## 上传代码
 在huggingface新建一个spaces，使用Docker，将`Dockerfile`和`README.md`上传上去
 
